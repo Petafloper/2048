@@ -1,0 +1,6 @@
+(header>h1)+nav+section>(article*2>(header>(hgroup>h1+h2)+footer>p)+{Mensaje de Texto}+(figure>img+fgcaption>p)+footer>p)
+
+(header>h1)>(nav>ul>li*3)+section>(article*2>(header>hgroup>h1+h2)+footer>)+(mensaje de texto)+(figure>img+figure>fgcaption>p{Este es el texto de la imagen})+footer>p)+aside+footer
+
+
+(header>h1)+(nav>ul>li*3)+section>(article*2>(header>(hgroup>h1+h2)+footer>p)+{Mensaje de Texto}+(figure>img+fgcaption>p)+footer>p)
